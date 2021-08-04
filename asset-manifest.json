@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AdiZone2021/AdiZone.git/static/css/main.82b6c772.chunk.css",
+    "main.js": "/AdiZone2021/AdiZone.git/static/js/main.5a7b2598.chunk.js",
+    "main.js.map": "/AdiZone2021/AdiZone.git/static/js/main.5a7b2598.chunk.js.map",
+    "runtime-main.js": "/AdiZone2021/AdiZone.git/static/js/runtime-main.97436b90.js",
+    "runtime-main.js.map": "/AdiZone2021/AdiZone.git/static/js/runtime-main.97436b90.js.map",
+    "static/js/2.ca44afd3.chunk.js": "/AdiZone2021/AdiZone.git/static/js/2.ca44afd3.chunk.js",
+    "static/js/2.ca44afd3.chunk.js.map": "/AdiZone2021/AdiZone.git/static/js/2.ca44afd3.chunk.js.map",
+    "static/js/3.4238e46f.chunk.js": "/AdiZone2021/AdiZone.git/static/js/3.4238e46f.chunk.js",
+    "static/js/3.4238e46f.chunk.js.map": "/AdiZone2021/AdiZone.git/static/js/3.4238e46f.chunk.js.map",
+    "index.html": "/AdiZone2021/AdiZone.git/index.html",
+    "static/css/main.82b6c772.chunk.css.map": "/AdiZone2021/AdiZone.git/static/css/main.82b6c772.chunk.css.map",
+    "static/js/2.ca44afd3.chunk.js.LICENSE.txt": "/AdiZone2021/AdiZone.git/static/js/2.ca44afd3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97436b90.js",
+    "static/js/2.ca44afd3.chunk.js",
+    "static/css/main.82b6c772.chunk.css",
+    "static/js/main.5a7b2598.chunk.js"
+  ]
+}
